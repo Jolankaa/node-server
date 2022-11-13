@@ -1,0 +1,14 @@
+{
+  "name": "poyraz-api",
+  "version": "1.0.0",
+  "description": "VOİCE ASİSSTANT İÇİN LOG APİSİ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ber4tbey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
